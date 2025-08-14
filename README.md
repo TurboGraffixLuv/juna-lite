@@ -18,5 +18,6 @@ git clone https://github.com/TurboGraffixLuv/juna-lite
 cd juna-lite
 pip install -r requirements.txt
 python boot_juna.py
-
-
+```
+download gguf such as https://huggingface.co/TheBloke/CapybaraHermes-2.5-Mistral-7B-GGUF/blob/main/capybarahermes-2.5-mistral-7b.Q4_K_M.gguf
+Place in models folder
